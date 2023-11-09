@@ -109,7 +109,7 @@ Il continuous testing è una metodologia di testing in cui i test vengono esegui
 ### Test-driven development
 
 Il test-driven development (TDD) è una metodologia di sviluppo software che prevede di scrivere i test prima di scrivere il codice.
-La parola Test nell'acronimo è spesso mal interpretata. Il TDD non è uno strumento per testare l'applicazione, ma per far emergere il design dell'applicativo, partendo dai test che vogliamo soddisfare. Questo ci permette di rispettare il principio YAGNI (You aren't gonna need it), ovvero non scrivere codice per esigenze future, ma solo per soddisfare l'implementazione dei test da soddisfare.
+La parola Test nell'acronimo è spesso mal interpretata. Il TDD non è uno strumento per testare l'applicazione, ma per far emergere il design dell'applicativo, partendo dai test che vogliamo soddisfare. Questo ci permette di rispettare il principio YAGNI (You aren't gonna need it), ovvero non scrivere codice per esigenze future, ma solo per soddisfare l'implementazione dei test da soddisfare. 
 
 Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. Il ciclo TDD - Spesso chiamato _red-green-refactor_ - è semplice ma potente:
 
